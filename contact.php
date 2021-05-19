@@ -68,7 +68,7 @@ background-size: 100%;-o-background-size: 100%;"
       <label>Password</label>
     </div>
     <div class="user-box">
-      <input type="password" name="" required="">
+      <input type="SUBMIT PASSWORD" name="" required="">
       <label>Password</label>
     </div>
     <div class="user-box">
