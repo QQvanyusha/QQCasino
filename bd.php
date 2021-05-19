@@ -4,4 +4,5 @@ $database = 'casino'; // имя базы данных
 $user = 'root'; // имя пользователя
 $password = ''; // пароль
 $db = mysqli_connect ("localhost","root","","casino");
+$qw=1;
 ?>

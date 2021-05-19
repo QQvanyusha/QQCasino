@@ -6,6 +6,7 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+<link href="contact.css" rel="stylesheet" type="text/css" />
 <link href="css/jquery.ennui.contentslider.css" rel="stylesheet" type="text/css" media="screen,projection" />
 <script language="javascript" type="text/javascript">
 function clearText(field)
@@ -34,16 +35,11 @@ background-size: 100%;-o-background-size: 100%;"
             <div class="cleaner"></div>    	
         </div>
         <div class="cleaner"></div>
-    </div> <!-- end of header -->
-</div>
-<div id="templatemo_wrapper">  
     
-    <div id="templatemo_content_top"></div>
-    
-    <div id="templatemo_content">
-    	<div id="templatemo_main_content">
+
+
         
-        	<div class="content_box">
+        	
                 <h1></h1>
                 
                 <p></p>
@@ -60,96 +56,30 @@ background-size: 100%;-o-background-size: 100%;"
                         <br />
                         
             </div>
-                <div class="col_w280">
-                   		<h3></h3>
-                        <br />
-                         <br />
-                        <br />
-                        <br />
-                        <br />
-                        PROFIL
-            </div>
-                
-                <div class="cleaner"></div>
-			</div>
-            
-            <div class="content_box last_box">
-            	<div id="contact_form">
-                    <h4>LOGIN</h4>
-                    
-                    		
-    <form action="save_user.php" method="post">
-    <!--**** save_user.php - это адрес обработчика.  То есть, после нажатия на кнопку "Зарегистрироваться", данные из полей  отправятся на страничку save_user.php методом "post" ***** -->
-<p>
-    <label>Ваш логин:<br></label>
-    <input name="login" type="text" size="15" maxlength="15">
-    </p>
-<!--**** В текстовое поле (name="login" type="text") пользователь вводит свой логин ***** -->
-<p>
-    <label>Ваш пароль:<br></label>
-    <input name="password" type="password" size="15" maxlength="15">
-    </p>
-<!--**** В поле для паролей (name="password" type="password") пользователь вводит свой пароль ***** --> 
-<p>
-    <label>Имя <br></label>
-    <input name="name1" type="text" size="15" maxlength="15">
-    </p>
-
-    <p>
-    <label>Фамилия<br></label>
-    <input name="surname" type="text" size="15" maxlength="15">
-    </p>
-<p>
-    <input type="submit" name="submit" value="Зарегистрироваться">
-<!--**** Кнопочка (type="submit") отправляет данные на страничку save_user.php ***** --> 
-</p></form>
-                    
-                    </div>
-            </div>
-
-        </div>
-        
-        <div id="templatemo_sidebar">
-        
-        	<div id="news_box">
-                
-                <h2>24</h2>
-                        
-                <ul>
-                	<li>
-                        <h6><a href="#">25</a></h6>
-                        <p>26 <a href="http://validator.w3.org/check?uri=referer" rel="nofollow">27</a> &amp; <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow">CSS</a> 28</p>
-                    </li>
-                    
-                    <li>
-                        <h6><a href="#">27</a></h6>
-                        <p>28</p>
-                    </li>
-                    
-                    <li class="last">
-                        <h6><a href="#">29</a></h6>
-                        <p>30 </p>
-                    </li>
-                    
-                </ul>
-                
-                <div class="cleaner"></div> 
-                    
-            </div>
-            
-            <div class="sidebar_box">
-            	<h2>31</h2>
-                <blockquote>
-                    <p align="justify"> 32</p>
-                    
-                    <cite>33 <span>34</span></cite>
-                </blockquote>
-            </div>
-            
-        </div>
-        
-        <div class="cleaner"></div>
+            <div class="login-box">
+  <h2>Login</h2>
+  <form>
+    <div class="user-box">
+      <input type="text" name="" required="">
+      <label>Username</label>
     </div>
+    <div class="user-box">
+      <input type="password" name="" required="">
+      <label>Password</label>
+    </div>
+    <a href="#">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      Submit
+    </a>
+  </form>
+</div>
+                
+        	
+                
+                
    
     
     

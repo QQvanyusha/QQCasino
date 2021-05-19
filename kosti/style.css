@@ -1,0 +1,52 @@
+body {
+    position: relative;
+	background: #c7b39b url(img/QC7.gif); /* Цвет фона и путь к файлу */
+	
+}
+
+.wrapper {
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+	
+}
+
+.column {
+    display: flex;
+    align-items: center;
+	
+}
+
+#status {
+    position: absolute;
+    top: 5rem;
+		left: 85%;
+		transform: translateX(-100%);
+    min-width: 400px;
+    margin: 0;
+		text-align: center;
+		margin-top: 300px;
+		
+}
+
+.dice {
+    width: 32px;
+    float: left;
+    background-color:black;
+    border: 10px solid white;
+    padding: 50px;
+    font-size: 52px;
+    text-align: center;
+    margin: 15px;
+    margin-top: 300px;
+    border-radius: 15px;
+	color: #FFFFFF;
+  color: rgba(255,255,240);
+}
+
+.dice-roll {
+    cursor: pointer;
+    text-transform: capitalize;
+	margin-top: 300px;
+}
