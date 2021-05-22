@@ -80,7 +80,7 @@ background-size: 100%;-o-background-size: 100%;">
                     <div class="cs_article">
                         <div class="cs_article_inner">
                             <div class="left">
-                            	<img src="discord.jpg"картины/>
+                            	<img src="discord.jpg" alt="send" width="571px" height="600px" onclick="window.location.href = 'https://discord.gg/kw8wAT96'" />
                                 <div class="right">
                             </div>
                             </div>
