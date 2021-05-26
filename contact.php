@@ -76,11 +76,11 @@ background-size: 100%;-o-background-size: 100%;"
       Войти 
     </a>
     <a href="#">
+      
+       <li><a href="contact — registration.php"> <span></span>
       <span></span>
       <span></span>
-      <span></span>
-      <span></span>
-       <li><a href="contact — registration.php">Зарегистрироваться</a></li>
+      <span></span>Зарегистрироваться</a></li>
     </a>
 
     
