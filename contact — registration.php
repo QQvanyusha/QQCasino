@@ -68,6 +68,18 @@ background-size: 100%;-o-background-size: 100%;"
       <label>Password</label>
  
     </div>
+
+    <div class="user-box">
+      <input type="password" name="" required="">
+      <label>Password</label>
+ 
+    </div>
+
+    <div class="user-box">
+      <input type="password" name="" required="">
+      <label>Password</label>
+ 
+    </div>
     <a href="#">
       <span></span>
       <span></span>
@@ -80,7 +92,7 @@ background-size: 100%;-o-background-size: 100%;"
       <span></span>
       <span></span>
       <span></span>
-      Зарегистрироваться <a href="contact — registration.php" >
+      Зарегистрироваться
     </a>
   </form>
 </div>
