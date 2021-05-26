@@ -68,17 +68,20 @@ background-size: 100%;-o-background-size: 100%;"
       <label>Password</label>
  
     </div>
-    
-    
-    
-    <span></span>
-    <span></span>
-      <li><a href="contact — registration.php">Зарегистрироваться</a></li> 
-      <a href="#">
+    <a href="#">
       <span></span>
       <span></span>
       <span></span>
       <span></span>
+      Войти 
+    </a>
+    <a href="#">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      Зарегистрироваться
+    </a>
 
     
   </form>
