@@ -66,7 +66,7 @@ background-size: 100%;-o-background-size: 100%;"
     <div class="user-box">
       <input type="password" name="" required="">
       <label>Password</label>
-
+ 
     </div>
     <a href="#">
       <span></span>
@@ -80,7 +80,7 @@ background-size: 100%;-o-background-size: 100%;"
       <span></span>
       <span></span>
       <span></span>
-      Submit
+      Зарегистрироваться
     </a>
   </form>
 </div>
