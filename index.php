@@ -45,8 +45,8 @@ background-size: 100%;-o-background-size: 100%;">
 <div id="hook" style="background-color: white; height:600px; width:1160px; display:flex;">
 
     <div class="container">
-    <img src="sakura.jpg" alt="send" width="572px" height="600px" onclick="window.location.href = 'kosti/index.html'" />
-        <img src="unnamed.jpg" alt="send" width="579px" height="600px" onclick="window.location.href = 'Новая папка/index.html'" />  
+    <img src="sakura.jpg" alt="send" width="578px" height="600px" onclick="window.location.href = 'kosti/index.html'" />
+        <img src="unnamed.jpg" alt="send" width="580px" height="600px" onclick="window.location.href = 'Новая папка/index.html'" />  
             
         
         
