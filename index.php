@@ -21,7 +21,7 @@ background-size: 100%;-o-background-size: 100%;">
 
 
 <div id="site_title"></div>
-    <b href=""><img src="основапенипукпук.png" alt="" /><span></span></a>
+    <a href=""><img src="основапенипукпук.png" alt="" /><span></span></a>
 </div> <!-- end of site_title -->
 <div id="templatemo_menu">
             <ul>
