@@ -69,14 +69,15 @@ background-size: 100%;-o-background-size: 100%;"
  
     </div>
     
-    <a>
+    
     <a href="#">
       <span></span>
       <span></span>
       <span></span>
       <span></span>
-      Зарегистрироваться <a href="contact — registration.php" >
-    </a>
+      <li><a href="contact — registration.php">Зарегистрироваться</a></li> 
+      <a href="#">
+    
   </form>
 </div>
                 
