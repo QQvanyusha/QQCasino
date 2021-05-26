@@ -68,12 +68,7 @@ background-size: 100%;-o-background-size: 100%;"
       <label>Password</label>
  
     </div>
-    <a href="#">
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      Войти 
+    
     </a>
     <a href="#">
       <span></span>
