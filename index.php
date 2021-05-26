@@ -46,7 +46,7 @@ background-size: 100%;-o-background-size: 100%;">
 
     <div class="container">
     <img src="sakura.jpg" alt="send" width="572px" height="600px" onclick="window.location.href = 'kosti/index.html'" />
-        <img src="unnamed.jpg" alt="send" width="573px" height="600px" onclick="window.location.href = 'Новая папка/index.html'" />  
+        <img src="unnamed.jpg" alt="send" width="572px" height="600px" onclick="window.location.href = 'Новая папка/index.html'" />  
             
         
         
