@@ -80,7 +80,7 @@ background-size: 100%;-o-background-size: 100%;"
       <span></span>
       <span></span>
       <span></span>
-      Зарегистрироваться
+      Зарегистрироваться <a href="contact — registration.php" >
     </a>
   </form>
 </div>
