@@ -42,7 +42,7 @@ background-size: 100%;-o-background-size: 100%;">
     </div> <!-- end of header -->
 </div>
 <div style="display:flex;justify-content:center; width:100%">
-<div id="hook" style="background-color: white; height:600px; width:1149px; display:flex;">
+<div id="hook" style="background-color: white; height:600px; width:1151px; display:flex;">
 
     <div class="container">
     <img src="sakura.jpg" alt="send" width="572px" height="600px" onclick="window.location.href = 'kosti/index.html'" />
