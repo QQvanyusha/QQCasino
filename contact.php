@@ -73,7 +73,7 @@ background-size: 100%;-o-background-size: 100%;"
       <span></span>
       <span></span>
       <span></span>
-      Submit
+      Войти 
     </a>
     <a href="#">
       <span></span>
