@@ -15,28 +15,26 @@ function clearText(field)
     else if (field.value == '') field.value = field.defaultValue;
 }
 </script>
-</head>
+</head>  
 <body style="background:url(cosmos.gif);
-background-size: 100%;-o-background-size: 100%;"
-> 
+background-size: 100%;-o-background-size: 100%;">
+<div class="main-block">
+    <div id="site_title">
+        <b class="logo-a"href=""><img src="основапенипукпук.png" alt="" /><span></span></a>
+    </div> <!-- end of site_title -->
 
-    
-            <a href="#"><img src="основапенипукпук.png" alt=""/><span></span></a>
-        </div> <!-- end of site_title -->
-        <div id="templatemo_menu">
-            <ul>
+    <div id="templatemo_menu">
+                  
+            <a href="about.php" class="current">Игры </a>
+            <a href="portfolio.php">Связь</a>
+            <a href="blog.php">Банк</a>
+            <a href="contact.php">Профиль</a>
+        
                 
-                <li><a href="index.php">Игры</a></li>
-                <li><a href="portfolio.php">Связь</a></li>
-                <li><a href="blog.php">банк</a></li>
-                <li class="last"><a href="contact.php" class="current">Профиль</a></li>
-            </ul>
-            </div>
-            <div class="cleaner"></div>    	
-        </div>
-        <div class="cleaner"></div>
-    
+            
+                
 
+    <!-- end of header -->
 
         
         	
