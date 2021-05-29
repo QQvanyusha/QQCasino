@@ -89,7 +89,7 @@ em { color: #000; }
 	border: none;
 }
 #templatemo_menu ul li a:hover,  #templatemo_menu ul li .current {
-	color: #fffff;
+	color: #fff;
 	background: url(images/templatemo_menu_hover.png) no-repeat;
 }
 
@@ -186,4 +186,3 @@ em { color: #000; }
 #hook
 {
 	display: -webkit-flex;
-	
