@@ -61,31 +61,25 @@ background-size: 100%;-o-background-size: 100%;"
   <form>
     <div class="user-box">
       <input type="text" name="" required="">
-      <label>Username</label>
+      <label>Никнейм</label>
     </div>
     <div class="user-box">
       <input type="password" name="" required="">
-      <label>Password</label>
+      <label>почта</label>
  
     </div>
 
     <div class="user-box">
       <input type="password" name="" required="">
-      <label>Password</label>
+      <label>Пароль</label>
  
     </div>
 
     <div class="user-box">
       <input type="password" name="" required="">
-      <label>Password</label>
+      <label>Повторите пароль</label>
  
-    </div>
-    <a href="#">
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      Войти 
+    
     </a>
     <a href="#">
       <span></span>
