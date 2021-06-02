@@ -24,7 +24,7 @@ background-size: 100%;-o-background-size: 100%;">
     </div> <!-- end of site_title -->
     <p id="hook" style="background-color: white; height:700px; width:1150px; display:flex;">
 
-    <div id="hook">
+    <p id="hook">
                   
             <a href="index.php" class="current">Игры </a>
             <a href="portfolio.php">Связь</a>
@@ -32,7 +32,7 @@ background-size: 100%;-o-background-size: 100%;">
             <a href="contact.php">Профиль</a>
             </p>   
                 
-            
+            </p>
                 
 
     <!-- end of header -->
