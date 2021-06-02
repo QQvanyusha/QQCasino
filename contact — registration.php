@@ -58,26 +58,26 @@ background-size: 100%;-o-background-size: 100%;"
             </div>
             <div class="login-box">
   <h2>Login</h2>
-  <form>
+  <form action="save_user.php">
     <div class="user-box">
-      <input type="text" name="" required="">
-      <label>Username</label>
+      <input type="text" name="email" required="">
+      <label>E-mail</label>
     </div>
     <div class="user-box">
-      <input type="password" name="" required="">
+      <input type="password" name="passw" required="">
       <label>Password</label>
  
     </div>
 
     <div class="user-box">
-      <input type="password" name="" required="">
-      <label>Password</label>
+      <input type="text" name="name" required="">
+      <label>Name</label>
  
     </div>
 
     <div class="user-box">
-      <input type="password" name="" required="">
-      <label>Password</label>
+      <input type="text" name="surname" required="">
+      <label>Surname</label>
  
     </div>
     <a href="#">
