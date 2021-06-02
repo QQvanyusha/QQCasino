@@ -24,7 +24,7 @@ background-size: 100%;-o-background-size: 100%;">
 
     <div id="templatemo_menu">
                   
-            <a href="about.php" class="current">Игры </a>
+            <a href="index.php" class="current">Игры </a>
             <a href="portfolio.php">Связь</a>
             <a href="blog.php">Банк</a>
             <a href="contact.php">Профиль</a>
