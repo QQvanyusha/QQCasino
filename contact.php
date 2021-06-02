@@ -20,12 +20,12 @@ function clearText(field)
 background-size: 100%;-o-background-size: 100%;">
 <div class="main-block">
     <div id="site_title">
-        <b class="logo-a"href=""><img src="основапенипукпук.png" alt="" /><span></span></a>
+        <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
     </div> <!-- end of site_title -->
 
     <div id="templatemo_menu">
                   
-            <a href="about.php" class="current">Игры </a>
+            <a href="index.php" class="current">Игры </a>
             <a href="portfolio.php">Связь</a>
             <a href="blog.php">Банк</a>
             <a href="contact.php">Профиль</a>
