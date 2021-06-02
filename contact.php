@@ -22,7 +22,7 @@ background-size: 100%;-o-background-size: 100%;">
     <div id="site_title">
         <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
     </div> <!-- end of site_title -->
-    <p id="hook" style="background-color: white; height:70px; width:1150px; display:flex;">
+    <p id="hook" style="background-color: white; height:700px; width:1150px; display:flex;">
 
     <div id="templatemo_menu">
                   
