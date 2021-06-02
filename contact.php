@@ -23,7 +23,7 @@ background-size: 100%;-o-background-size: 100%;">
         <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
     </div> <!-- end of site_title -->
     
-    <div id="templatemo_menu" style="background-color: white; height:800px; width:100px; display:flex;">
+    <div id="templatemo_menu" style="background-color: colorless; height:800px; width:100px; display:flex;">
     <div id="templatemo_menu">
                   
             <a href="index.php" class="current">Игры </a>
