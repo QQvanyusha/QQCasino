@@ -30,7 +30,7 @@ background-size: 100%;-o-background-size: 100%;">
             <a href="portfolio.php">Связь</a>
             <a href="blog.php">Банк</a>
             <a href="contact.php">Профиль</a>
-        
+            </p>   
                 
             
                 
@@ -80,7 +80,7 @@ background-size: 100%;-o-background-size: 100%;">
       <span></span>
       <span></span>Зарегистрироваться</a></li>
     </a>
-</p>
+
     
   </form>
 </div>
