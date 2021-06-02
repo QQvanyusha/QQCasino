@@ -58,7 +58,7 @@ background-size: 100%;-o-background-size: 100%;"
             </div>
             <div class="login-box">
   <h2>Login</h2>
-  <form action="save_user.php">
+  <form action="save_user.php" method="POST">
     <div class="user-box">
       <input type="text" name="email" required="">
       <label>E-mail</label>
@@ -87,7 +87,9 @@ background-size: 100%;-o-background-size: 100%;"
       <span></span>
       Войти 
     </a>
+    <input type="submit" name="submit" value="Зарегистрироваться">
     <a href="#">
+    
       <span></span>
       <span></span>
       <span></span>
