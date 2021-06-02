@@ -23,7 +23,7 @@ background-size: 100%;-o-background-size: 100%;">
         <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
     </div> <!-- end of site_title -->
     
-    <div id="hook">
+    <div id="templatemo_menu">
                   
             <a href="index.php" class="current">Игры </a>
             <a href="portfolio.php">Связь</a>
