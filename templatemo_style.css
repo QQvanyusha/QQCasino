@@ -13,7 +13,6 @@ body{
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
 }
-<<<<<<< HEAD
 a{
     position: relative;
     display: inline-block;
@@ -27,11 +26,6 @@ a{
     overflow: hidden;
     margin-right: 50px;
    
-=======
-#templatemo_menu ul li a:hover,  #templatemo_menu ul li .current {
-	color: #fffff;
-	background: url(images/templatemo_menu_hover.png) no-repeat;
->>>>>>> parent of 36d4cc1 (Update templatemo_style.css)
 }
 
 a:hover{
@@ -110,7 +104,6 @@ a span:nth-child(4){
     animation: animate4 1s linear infinite;
     animation-delay: 0.75s;
 }
-<<<<<<< HEAD
 @keyframes animate4{
     0%{
         bottom: -100%;
@@ -119,9 +112,3 @@ a span:nth-child(4){
         bottom: 100%;
     }
 }
-=======
-#hook
-{
-	display: -webkit-flex;
-	
->>>>>>> parent of 36d4cc1 (Update templatemo_style.css)
