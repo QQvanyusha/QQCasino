@@ -59,11 +59,11 @@ background-size: 100%;-o-background-size: 100%;">
   <form>
     <div class="user-box">
       <input type="text" name="" required="">
-      <label>Username</label>
+      <label>Имя пользователя</label>
     </div>
     <div class="user-box">
       <input type="password" name="" required="">
-      <label>Password</label>
+      <label>Пароль</label>
  
     </div>
     <a href="#">
