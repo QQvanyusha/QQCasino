@@ -59,7 +59,7 @@ function clearText(field)
 background-size: 100%;-o-background-size: 100%;"> 
 
         <div id="site_title">
-            <a href=""><img src="основапенипукпук.png"alt="" /><span></span></a>
+            <b href=""><img src="основапенипукпук.png"alt="" /><span></span></a>
         </div> <!-- end of site_title -->
         <div id="templatemo_menu">
             <ul>
