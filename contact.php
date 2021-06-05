@@ -62,7 +62,7 @@ background-size: 100%;-o-background-size: 100%;">
                         <br />
                         
             </div>
-            <div class="login-box">
+            <div class="login">
   <h2>Login</h2>
   <form>
     <div class="user-box">
