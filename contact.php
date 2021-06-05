@@ -28,9 +28,7 @@ background-size: 100%;-o-background-size: 100%;">
 <div class="main-block">
     <div id="site_title">
         <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
-    </div> <!-- end of site_title -->
-    
-    <div id="templatemo_menu" style="background-color: colorless; height:500px; width:100px; display:flex;">
+    </div> 
     <div id="templatemo_menu">
                   
             <a href="index.php" class="current">Игры </a>
