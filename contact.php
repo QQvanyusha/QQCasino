@@ -27,18 +27,19 @@ background-size: 100%;-o-background-size: 100%;">
  </div> 
 <div class="main-block">
     <div id="site_title">
-        <b class="logo-a"href=""><img src="основапенипукпук.png" alt="" /><span></span></a>
+        <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
     </div> <!-- end of site_title -->
-
+    
+    <div id="templatemo_menu" style="background-color: colorless; height:500px; width:100px; display:flex;">
     <div id="templatemo_menu">
                   
-            <a href="about.php" class="current">Игры </a>
+            <a href="index.php" class="current">Игры </a>
             <a href="portfolio.php">Связь</a>
             <a href="blog.php">Банк</a>
             <a href="contact.php">Профиль</a>
-        
+               
                 
-            
+           
                 
 
     <!-- end of header -->
@@ -47,7 +48,7 @@ background-size: 100%;-o-background-size: 100%;">
         	
                 <h1></h1>
                 
-                <p></p>
+               
                 
               <div class="cleaner_h30"></div>
             

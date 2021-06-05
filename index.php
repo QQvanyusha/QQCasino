@@ -24,7 +24,7 @@ background-size: 100%;-o-background-size: 100%;">
 
     <div id="templatemo_menu">
                   
-            <a href="about.php" class="current">Игры </a>
+            <a href="index.php" class="current">Игры </a>
             <a href="portfolio.php">Связь</a>
             <a href="blog.php">Банк</a>
             <a href="contact.php">Профиль</a>
@@ -36,7 +36,7 @@ background-size: 100%;-o-background-size: 100%;">
     <!-- end of header -->
     </div>
     <div style="display:flex;justify-content:center; width:100%">
-        <div id="hook" style="background-color: white; height:601px; width:1150px; display:flex;">
+        <div id="hook" style="background-color: colorless; height:601px; width:1150px; display:flex;">
 
             <div class="container">
             <img src="sakura.jpg" alt="send" width="573.5px" height="601px" onclick="window.location.href = 'kosti/index.html'" />
