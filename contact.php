@@ -36,33 +36,9 @@ background-size: 100%;-o-background-size: 100%;">
             <a href="index.php" class="current">Игры </a>
             <a href="portfolio.php">Связь</a>
             <a href="blog.php">Банк</a>
-            <a href="contact.php">Профиль</a>
-               
-                
-           
-                
-
-    <!-- end of header -->
-
-        
-        	
-                <h1></h1>
-                
-               
-                
-              <div class="cleaner_h30"></div>
-            
-                <h4></h4>
-                <div class="col_w280">
-                    	<h3></h3>
-                         <br />
-                        <br />
-                        <br />
-                        <br />
-                        <br />
-                        
+            <a href="contact.php"class="current">Профиль</a>             
             </div>
-            <div class="login">
+            <div class="login-box">
   <h2>Login</h2>
   <form>
     <div class="user-box">
