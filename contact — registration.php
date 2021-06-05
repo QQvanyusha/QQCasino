@@ -86,15 +86,13 @@ background-size: 100%;-o-background-size: 100%;"
       <span></span>
       <span></span>
       Войти 
-    </a>
-    <input type="submit" name="submit" value="Зарегистрироваться">
-    <a href="#">
+    </a>>
     
+    <input  id="button"type="submit" name="submit" value="Зарегистрироваться">
       <span></span>
       <span></span>
       <span></span>
       <span></span>
-      Зарегистрироваться
     </a>
   </form>
 </div>

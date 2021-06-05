@@ -3,11 +3,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title> 1</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
 <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
-<link href="css/jquery.ennui.contentslider.css" rel="stylesheet" type="text/css" media="screen,projection" />
+<link href="css/jquery.ennui.contentslider.css">
+<link rel="stylesheet" type="text/css" media="screen,projection">
+<link href="contact.css" rel="stylesheet" type="text/css" />
 <script language="javascript" type="text/javascript">
+
 function clearText(field)
 {
     if (field.defaultValue == field.value) field.value = '';
@@ -15,7 +16,7 @@ function clearText(field)
 }
 </script>
 </head>
-<body style="background:url(кс.png);
+<body style="background:url(Профиль.jpg);
 background-size: 100%;-o-background-size: 100%;"
 > 
 
@@ -48,11 +49,13 @@ background-size: 100%;-o-background-size: 100%;"
             <div class="content_box last_box">
             	<div id="contact_form">
                     <h4>LOGIN</h4>
-                    <img src=фотоtest.png  alt="фотоtest" alt="send" width="100px" height="100px"> <form enctype="multipart/form-data" method="post">
-   <p><input type="file" name="f">
+                    <img src=фотоtest.png  alt="фотоtest" alt="send" width="100px" height="100px"> 
+                    <form enctype="multipart/form-data" method="post">
+   <p><input id="button" type="file" name="f" value="Обзор">
+  
    <input type="submit" value="Отправить"></p>
   </form> 
-                    <h4>Баланс: 0000000 <h4>
+                    <h4>Баланс: 0 <h4>
 
 
                     
