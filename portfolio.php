@@ -67,7 +67,7 @@ background-size: 100%;-o-background-size: 100%;">
                 <a href="index.php">Игры</a>
                 <a href="portfolio.php" class="current">Связь</a>
                 <a href="blog.php">Банк</a>
-                <a class="last"><a href="contact.php">Профиль</a>
+                <a class="last" href="contact.php">Профиль</a>
             </ul>
              
                 </form>
