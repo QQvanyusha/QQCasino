@@ -18,42 +18,23 @@ function clearText(field)
 </head>  
 <body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;">
+<style>
+             .flex{ display: flex; } 
+ </style> 
+            <div class="flex">
+            <div class="login "></div> 
+             <div class=""></div> 
+ </div> 
 <div class="main-block">
     <div id="site_title">
         <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
-    </div> <!-- end of site_title -->
-    
-    <div id="templatemo_menu" style="background-color: colorless; height:500px; width:100px; display:flex;">
+    </div> 
     <div id="templatemo_menu">
                   
             <a href="index.php" class="current">Игры </a>
             <a href="portfolio.php">Связь</a>
             <a href="blog.php">Банк</a>
-            <a href="contact.php">Профиль</a>
-               
-                
-           
-                
-
-    <!-- end of header -->
-
-        
-        	
-                <h1></h1>
-                
-               
-                
-              <div class="cleaner_h30"></div>
-            
-                <h4></h4>
-                <div class="col_w280">
-                    	<h3></h3>
-                         <br />
-                        <br />
-                        <br />
-                        <br />
-                        <br />
-                        
+            <a href="contact.php"class="current">Профиль</a>             
             </div>
             <div class="login-box">
   <h2>Login</h2>
