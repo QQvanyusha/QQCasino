@@ -64,10 +64,10 @@ background-size: 100%;-o-background-size: 100%;">
         <div id="templatemo_menu">
             <ul>
                 
-                <li><a href="index.php">Игры</a></li>
-                <li><a href="portfolio.php" class="current">Связь</a></li>
-                <li><a href="blog.php">Банк</a></li>
-                <li class="last"><a href="contact.php">Профиль </a></li>
+                <a><a href="index.php">Игры</a></a>
+                <a><a href="portfolio.php" class="current">Связь</a></a>
+                <a><a href="blog.php">Банк</a></a>
+                <a class="last"><a href="contact.php">Профиль </a></a>
             </ul>
              
                 </form>
