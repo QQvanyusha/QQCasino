@@ -26,15 +26,13 @@ background-size: 100%;-o-background-size: 100%;"
         <div id="templatemo_menu">
             <ul>
                 
-                <li><a href="index.php">Игры</a></li>
-                <li><a href="portfolio.php">Связь</a></li>
-                <li><a href="blog.php">банк</a></li>
-                <li class="last"><a href="contact.php" class="current">Профиль</a></li>
+                <a href="index.php">Игры</a></li>
+                <a href="portfolio.php">Связь</a></li>
+                <a href="blog.php">банк</a></li>
+                <a class="last"><a href="contact.php" class="current">Профиль</a></a>
             </ul>
             </div>
-            <div class="cleaner"></div>    	
-        </div>
-        <div class="cleaner"></div>
+            
     </div> <!-- end of header -->
 </div>
 <div id="templatemo_wrapper">  
@@ -74,16 +72,16 @@ background-size: 100%;-o-background-size: 100%;"
 </html>
                 
                         
-                <ul>
-                	<li>
+                
+                	
                         <h6><a href="#">Последние игры</a></h6>
                         <p>----------------------------------------------------------------------------------------------------------
-                    </li>
                     
-                    <li>
+                    
+                   
                         <h6><a href="#">27</a></h6>
                         <p>28</p>
-                    </li>
+                    
                     
                     <li class="last">
                         <h6><a href="#">29</a></h6>
