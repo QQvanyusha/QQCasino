@@ -168,7 +168,7 @@
 .login-box a span:nth-child(4) {
   bottom: -100%;
   left: 0;
-  width: 2px;
+  width: 4px;
   height: 100%;
   background: linear-gradient(360deg, transparent, #03e9f4);
   animation: btn-anim4 1s linear infinite;
@@ -187,11 +187,36 @@
 
 
   body{display: flex; flex-direction: row;
+
+
+body{
+  display: flex; 
+  flex-direction: column;
+  height: 85%;
+}
+
+
+
+    body{display: flex; flex-direction: column;
+
       height: 85%; }
-  .div {
-    border:3px solid black; width:1000px;  
-  }
+
   
 
 
+<<<<<<< HEAD
   
+=======
+#logo-name
+{
+  width:1000px;  
+ display: flex;
+  flex-direction: row;
+}
+#name-balance
+{
+  display: flex;
+   flex-direction: column;
+
+}
+>>>>>>> 18fc2fbffb2625871e090f5cb00508423de2903d
