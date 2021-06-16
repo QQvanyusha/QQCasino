@@ -23,6 +23,7 @@ background-size: 100%;-o-background-size: 100%;">
  
  .div { 
     display: flex; 
+    border:3px solid black; width:1000px
      } 
  </style> 
             <div class="flex">
