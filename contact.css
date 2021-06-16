@@ -185,8 +185,7 @@
 }
 
 
-  body{display: flex; flex-direction: column-reverse;
-      height: 85%; }
+
   .div {
     border:1px solid black; width:1000px;  
   }
