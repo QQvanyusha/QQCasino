@@ -19,10 +19,12 @@ function clearText(field)
 <body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;">
 <style>
-             .flex{ display: flex; } 
+ .container { 
+    display: flex; 
+     } 
  </style> 
             <div class="flex">
-            <div class="login "></div> 
+           <div class="login "></div> 
              <div class=""></div> 
  </div> 
 <div class="main-block">
