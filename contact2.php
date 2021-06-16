@@ -1,11 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-
-
-<link rel="icon" href="img/nice.png" type="image/x-icon">
-
-
+<link rel="icon" href="nice.png" type="image/x-icon">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title> 1</title>
 <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
@@ -51,14 +47,17 @@ background-size: 100%;-o-background-size: 100%;"
             
             <div class="content_box last_box">
             	<div id="contact_form">
-                    <h4>LOGIN</h4>
+                <div id="logo-name"> 
+                    
                     <img src=фотоtest.png  alt="фотоtest" alt="send" width="100px" height="100px"> 
-                    <form enctype="multipart/form-data" method="post">
-   <p><input id="button" type="file" name="f" value="Обзор">
+                   <a href=# h4> Nick </4></a> 
+                   <div> <h4>Баланс: 0 <h4></div> 
+                  <a form enctype="multipart/form-data" method="post">
+   <p><input id="button" type="file" name="f" value="Обзор"> </A>
   
-   <input type="submit" value="Отправить"></p>
+   <input type="submit" value="Отправить"></p></div>
   </form> 
-                    <h4>Баланс: 0 <h4>
+                   
 
 
                     
@@ -82,23 +81,7 @@ background-size: 100%;-o-background-size: 100%;"
                         <h6><a href="#">Последние игры</a></h6>
                         <p>----------------------------------------------------------------------------------------------------------
                     
-                    
-                   
-                        <h6><a href="#">27</a></h6>
-                        <p>28</p>
-                    
-                    
-                    <li class="last">
-                        <h6><a href="#">29</a></h6>
-                        <p>30 </p>
-                    </li>
-                    
-                </ul>
-                
-                 
-               </div>
-        
-       
+                     
     </div>
    
     
