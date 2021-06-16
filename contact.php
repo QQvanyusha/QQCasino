@@ -23,7 +23,8 @@ function clearText(field)
 <body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;">
 <style>
- .container { 
+ 
+ .div { 
     display: flex; 
      } 
  </style> 
