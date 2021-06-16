@@ -21,15 +21,8 @@ function clearText(field)
 </script>
 </head>  
 <body style="background:url(cosmos.gif);
-background-size: 100%;-o-background-size: 100%;">
-<style>
- 
- .div { 
-    display: flex; 
-    border:3px solid black; width:1000px
-     } 
- </style> 
-            <div class="flex">
+background-size: 100%;-o-background-size: 100%;"> 
+          <div class="flex">
            <div class="login "></div> 
              <div class=""></div> 
  </div> 
