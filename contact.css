@@ -136,7 +136,7 @@
   animation: btn-anim2 1s linear infinite;
   animation-delay: .25s
 }
-
+ 
 @keyframes btn-anim2 {
   0% {
     top: -100%;
@@ -186,7 +186,10 @@
 
 
   body{display: flex; flex-direction: column-reverse;
-      height: 85%;
+      height: 85%; }
+  .div {
+    border:px1 solid black; width:1000px;  
   }
+  
   
 
