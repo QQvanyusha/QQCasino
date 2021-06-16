@@ -189,26 +189,25 @@
 body{display: flex; flex-direction: column;
   height: 85%;
 }
-  div{
-    border:1px solid black; width: 1000px;
-  }
+
 
 
     body{display: flex; flex-direction: column;
       height: 85%; }
-  .div {
-    border:3px solid black; width:1000px;  
-  }
+
   
   
 
 
 #logo-name
 {
- 
+  width:1000px;  
+ display: flex;
   flex-direction: row;
 }
 #name-balance
 {
-  display: flex; flex-direction: column;
+  display: flex;
+   flex-direction: column;
+
 }

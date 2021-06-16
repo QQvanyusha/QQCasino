@@ -54,9 +54,8 @@ background-size: 100%;-o-background-size: 100%;"
                         <a href=# h4> Nick </4></a> 
                         <h4>Баланс: 0 <h4>
                     </div>
-                </div> 
-                  <a form enctype="multipart/form-data" method="post">
-   <p><input id="button" type="file" name="f" value="Обзор"> </A>
+                </div  form enctype="multipart/form-data" method="post">
+   <p><input id="button" type="file" name="f" value="Обзор"> 
   
    <input type="submit" value="Отправить"></p></div>
   </form> 
