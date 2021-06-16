@@ -1,7 +1,5 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="icon" href="nice.png" type="image/x-icon">
-
-
 <title>QuantCasino</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
