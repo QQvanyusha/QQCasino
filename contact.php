@@ -22,18 +22,20 @@ function clearText(field)
 </head>  
 <body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;">
-<style>
- 
- .div { 
-    display: flex; 
-     } 
- </style> 
+
             <div class="flex">
            <div class="login "></div> 
              <div class=""></div> 
  </div> 
 <div class="main-block">
     <div id="site_title">
+    <style>
+ 
+ .div { 
+    display: flex; 
+     } 
+ </style> 
+ 
         <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
     </div> 
     <div id="templatemo_menu">
@@ -44,6 +46,7 @@ background-size: 100%;-o-background-size: 100%;">
             <a href="contact.php"class="current">Профиль</a>             
             </div>
             <div class="login-box">
+      
   <h2>Login</h2>
   <form>
     <div class="user-box">
