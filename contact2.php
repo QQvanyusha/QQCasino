@@ -17,7 +17,7 @@ function clearText(field)
 }
 </script>
 </head>
-<body style="background:url(Профиль.jpg);
+<body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;"
 > 
 
