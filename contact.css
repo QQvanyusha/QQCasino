@@ -208,3 +208,7 @@ body{display: flex; flex-direction: column;
  
   flex-direction: row;
 }
+#name-balance
+{
+  display: flex; flex-direction: column;
+}

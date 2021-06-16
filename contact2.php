@@ -50,8 +50,11 @@ background-size: 100%;-o-background-size: 100%;"
                 <div id="logo-name"> 
                     
                     <img src=фотоtest.png  alt="фотоtest" alt="send" width="100px" height="100px"> 
-                   <a href=# h4> Nick </4></a> 
-                   <div> <h4>Баланс: 0 <h4></div> 
+                    <div id="name-balance">
+                        <a href=# h4> Nick </4></a> 
+                        <h4>Баланс: 0 <h4>
+                    </div>
+                </div> 
                   <a form enctype="multipart/form-data" method="post">
    <p><input id="button" type="file" name="f" value="Обзор"> </A>
   
