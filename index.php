@@ -1,6 +1,7 @@
 
 <html>
 <head>
+<link rel="icon" href="img/nice.png" type="image/x-icon">
 <meta http-equiv="; charset=utf-8">
 <title>QuantCasino</title>
 <meta name="keywords" content="" >
