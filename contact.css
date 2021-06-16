@@ -186,13 +186,19 @@
 
 
 
-body{display: flex; flex-direction: column;
+  body{display: flex; flex-direction: row;
+
+
+body{
+  display: flex; 
+  flex-direction: column;
   height: 85%;
 }
 
 
 
     body{display: flex; flex-direction: column;
+
       height: 85%; }
 
   
