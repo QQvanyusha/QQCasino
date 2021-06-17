@@ -184,29 +184,11 @@
   }
 }
 
-
-
-  body{display: flex; flex-direction: row;
-
-
-body{
-  display: flex; 
-  flex-direction: column;
-  height: 85%;
-}
-
-
-
     body{display: flex; flex-direction: column;
 
       height: 85%; }
 
-  
 
-
-<<<<<<< HEAD
-  
-=======
 #logo-name
 {
   width:1000px;  
@@ -219,4 +201,3 @@ body{
    flex-direction: column;
 
 }
->>>>>>> 18fc2fbffb2625871e090f5cb00508423de2903d
