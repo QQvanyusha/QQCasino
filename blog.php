@@ -18,7 +18,6 @@ function clearText(field)
 </head>
 <body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;"> 
-<p>bbbb</p>
         <div id="site_title">
             <a href=""><img src="основапенипукпук.png" alt="" />
             </a>
