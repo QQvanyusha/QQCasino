@@ -186,7 +186,10 @@
 
     body{display: flex; flex-direction: column;
 
-      height: 85%; }
+      height: 85%; 
+    
+      flex-wrap: wrap
+    }
 
 
 #logo-name
