@@ -29,7 +29,10 @@ background-size: 100%;-o-background-size: 100%;"
         </div>
         <div class="cleaner"></div>
     
-
+        <ul>
+               <a href="index.php">Игры</a>
+            
+           </ul>
 
         
         	
