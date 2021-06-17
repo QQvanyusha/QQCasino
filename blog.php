@@ -29,10 +29,10 @@ background-size: 100%;-o-background-size: 100%;">
               
             <ul>
                
-                <li><a href="index.php">Игры</a></li>
-                <li><a href="portfolio.php">Связь</a></li>
-                <li><a href="blog.php" class="current">Банк</a></li>
-                <li class="last"><a href="contact.php">Профиль</a></li>
+                <a href="index.php">Игры</a>
+                <a href="portfolio.php">Связь</a>
+                <a href="blog.php" class="current">Банк</a>
+                <class="last"><a href="contact.php">Профиль</a>
             </ul>
                 </form>
             </div>
