@@ -23,15 +23,8 @@ background-size: 100%;-o-background-size: 100%;"
     
             <a href="#"><img src="основапенипукпук.png" alt=""/><span></span></a>
         </div> <!-- end of site_title -->
-        <div id="templatemo_menu">
-            <ul>
-                
-                <li><a href="index.php">Игры</a></li>
-                <li><a href="portfolio.php">Связь</a></li>
-                <li><a href="blog.php">банк</a></li>
-                <li class="last"><a href="contact.php" class="current">Профиль</a></li>
-            </ul>
-            </div>
+        
+           
             <div class="cleaner"></div>    	
         </div>
         <div class="cleaner"></div>
