@@ -19,8 +19,8 @@ function clearText(field)
 <body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;"> 
         <div id="site_title">
-            <a href=""><img src="основапенипукпук.png" alt="" />
-            </a>
+            <img src="основапенипукпук.png" alt="" ></img>
+           
 
         </div> <!-- end of site_title -->
 
