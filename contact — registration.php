@@ -79,7 +79,7 @@ background-size: 100%;-o-background-size: 100%;"
       <span></span>
       <span></span>
       Войти 
-    </a>>
+    </a>
     
     <input  id="button" type="submit" name="submit" value="Зарегистрироваться">
       <span></span>
