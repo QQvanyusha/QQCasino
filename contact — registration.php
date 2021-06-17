@@ -21,7 +21,7 @@ background-size: 100%;-o-background-size: 100%;"
 > 
 
     
-            <a href="#"><img src="основапенипукпук.png" alt=""/><span></span></a>
+            <img src="основапенипукпук.png" alt=""/><span></span>
         </div> <!-- end of site_title -->
         
            
