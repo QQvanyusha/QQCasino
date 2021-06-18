@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<link rel="icon" href="nice.png" type="image/x-icon">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Liquid Blog Theme - free CSS template</title>
 <meta name="keywords" content="" />
@@ -17,10 +18,9 @@ function clearText(field)
 </head>
 <body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;"> 
-<p>bbbb</p>
         <div id="site_title">
-            <a href=""><img src="основапенипукпук.png" alt="" />
-            </a>
+            <img src="основапенипукпук.png" alt="" ></img>
+           
 
         </div> <!-- end of site_title -->
 
@@ -28,10 +28,10 @@ background-size: 100%;-o-background-size: 100%;">
               
             <ul>
                
-                <li><a href="index.php">Игры</a></li>
-                <li><a href="portfolio.php">Связь</a></li>
-                <li><a href="blog.php" class="current">Банк</a></li>
-                <li class="last"><a href="contact.php">Профиль</a></li>
+                <a href="index.php">Игры</a>
+                <a href="portfolio.php">Связь</a>
+                <a href="blog.php" class="current">Банк</a>
+                <class="last"><a href="contact.php">Профиль</a>
             </ul>
                 </form>
             </div>

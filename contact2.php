@@ -1,13 +1,15 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<link rel="icon" href="nice.png" type="image/x-icon">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title> 1</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
 <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
-<link href="css/jquery.ennui.contentslider.css" rel="stylesheet" type="text/css" media="screen,projection" />
+<link href="css/jquery.ennui.contentslider.css">
+<link rel="stylesheet" type="text/css" media="screen,projection">
+<link href="contact.css" rel="stylesheet" type="text/css" />
 <script language="javascript" type="text/javascript">
+
 function clearText(field)
 {
     if (field.defaultValue == field.value) field.value = '';
@@ -15,7 +17,7 @@ function clearText(field)
 }
 </script>
 </head>
-<body style="background:url(кс.png);
+<body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;"
 > 
 
@@ -25,15 +27,13 @@ background-size: 100%;-o-background-size: 100%;"
         <div id="templatemo_menu">
             <ul>
                 
-                <li><a href="index.php">Игры</a></li>
-                <li><a href="portfolio.php">Связь</a></li>
-                <li><a href="blog.php">банк</a></li>
-                <li class="last"><a href="contact.php" class="current">Профиль</a></li>
+                <a href="index.php">Игры</a></li>
+                <a href="portfolio.php">Связь</a></li>
+                <a href="blog.php">банк</a></li>
+                <a class="last"><a href="contact.php" class="current">Профиль</a></a>
             </ul>
             </div>
-            <div class="cleaner"></div>    	
-        </div>
-        <div class="cleaner"></div>
+            
     </div> <!-- end of header -->
 </div>
 <div id="templatemo_wrapper">  
@@ -47,12 +47,19 @@ background-size: 100%;-o-background-size: 100%;"
             
             <div class="content_box last_box">
             	<div id="contact_form">
-                    <h4>LOGIN</h4>
-                    <img src=фотоtest.png  alt="фотоtest" alt="send" width="100px" height="100px"> <form enctype="multipart/form-data" method="post">
-   <p><input type="file" name="f">
-   <input type="submit" value="Отправить"></p>
+                <div id="logo-name"> 
+                    
+                    <img src=фотоtest.png  alt="фотоtest" alt="send" width="100px" height="100px"> 
+                    <div id="name-balance">
+                        <a href=# h4> Nick </4></a> 
+                        <h4>Баланс: 0 <h4>
+                    </div>
+                </div  form enctype="multipart/form-data" method="post">
+   <p><input id="button" type="file" name="f" value="Обзор"> 
+  
+   <input type="submit" value="Отправить"></p></div>
   </form> 
-                    <h4>Баланс: 0000000 <h4>
+                   
 
 
                     
@@ -71,28 +78,12 @@ background-size: 100%;-o-background-size: 100%;"
 </html>
                 
                         
-                <ul>
-                	<li>
+                
+                	
                         <h6><a href="#">Последние игры</a></h6>
                         <p>----------------------------------------------------------------------------------------------------------
-                    </li>
                     
-                    <li>
-                        <h6><a href="#">27</a></h6>
-                        <p>28</p>
-                    </li>
-                    
-                    <li class="last">
-                        <h6><a href="#">29</a></h6>
-                        <p>30 </p>
-                    </li>
-                    
-                </ul>
-                
-                 
-               </div>
-        
-       
+                     
     </div>
    
     

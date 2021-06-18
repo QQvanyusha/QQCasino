@@ -1,4 +1,5 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="icon" href="nice.png" type="image/x-icon">
 <title>QuantCasino</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
@@ -57,17 +58,18 @@ function clearText(field)
 </head>
 <body style="background:url(cosmos.gif);
 background-size: 100%;-o-background-size: 100%;"> 
-
+<link rel="icon" href="img/nice.png" type="image/x-icon">
         <div id="site_title">
-            <a href=""><img src="основапенипукпук.png"alt="" /><span></span></a>
+            <b class="logo-a" href=""><img src="основапенипукпук.png" alt="" /><span></span></a>
+            
         </div> <!-- end of site_title -->
         <div id="templatemo_menu">
             <ul>
                 
-                <li><a href="index.php">Игры</a></li>
-                <li><a href="portfolio.php" class="current">Связь</a></li>
-                <li><a href="blog.php">Банк</a></li>
-                <li class="last"><a href="contact.php">Профиль </a></li>
+                <a href="index.php">Игры</a>
+                <a href="portfolio.php" class="current">Связь</a>
+                <a href="blog.php">Банк</a>
+                <a class="last" href="contact.php">Профиль</a>
             </ul>
              
                 </form>

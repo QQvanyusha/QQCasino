@@ -21,17 +21,10 @@ background-size: 100%;-o-background-size: 100%;"
 > 
 
     
-            <a href="#"><img src="основапенипукпук.png" alt=""/><span></span></a>
+            <img src="основапенипукпук.png" alt=""/><span></span>
         </div> <!-- end of site_title -->
-        <div id="templatemo_menu">
-            <ul>
-                
-                <li><a href="index.php">Игры</a></li>
-                <li><a href="portfolio.php">Связь</a></li>
-                <li><a href="blog.php">банк</a></li>
-                <li class="last"><a href="contact.php" class="current">Профиль</a></li>
-            </ul>
-            </div>
+        
+           
             <div class="cleaner"></div>    	
         </div>
         <div class="cleaner"></div>
@@ -58,26 +51,26 @@ background-size: 100%;-o-background-size: 100%;"
             </div>
             <div class="login-box">
   <h2>Login</h2>
-  <form>
+  <form action="save_user.php" method="POST">
     <div class="user-box">
-      <input type="text" name="" required="">
-      <label>Username</label>
+      <input type="text" name="email" required="">
+      <label>E-mail</label>
     </div>
     <div class="user-box">
-      <input type="password" name="" required="">
+      <input type="password" name="passw" required="">
       <label>Password</label>
  
     </div>
 
     <div class="user-box">
-      <input type="password" name="" required="">
-      <label>Password</label>
+      <input type="text" name="name" required="">
+      <label>Name</label>
  
     </div>
 
     <div class="user-box">
-      <input type="password" name="" required="">
-      <label>Password</label>
+      <input type="text" name="surname" required="">
+      <label>Surname</label>
  
     </div>
     <a href="#">
@@ -87,12 +80,12 @@ background-size: 100%;-o-background-size: 100%;"
       <span></span>
       Войти 
     </a>
-    <a href="#">
+    
+    <input  id="button" type="submit" name="submit" value="Зарегистрироваться">
       <span></span>
       <span></span>
       <span></span>
       <span></span>
-      Зарегистрироваться
     </a>
   </form>
 </div>

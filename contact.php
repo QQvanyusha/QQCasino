@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<link rel="icon" href="nice.png" type="image/x-icon">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title> Мой профиль</title>
 <meta name="keywords" content="" />
@@ -17,15 +18,18 @@ function clearText(field)
 </script>
 </head>  
 <body style="background:url(cosmos.gif);
-background-size: 100%;-o-background-size: 100%;">
+background-size: 100%;-o-background-size: 100%;"> 
+          <div class="flex">
+           <div class="login "></div> 
+             <div class=""></div> 
+ </div> 
 <div class="main-block">
     <div id="site_title">
-        <b class="logo-a"href=""><img src="основапенипукпук.png" alt="" /><span></span></a>
-    </div> <!-- end of site_title -->
-
+        <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
+    </div> 
     <div id="templatemo_menu">
                   
-            <a href="about.php" class="current">Игры </a>
+            <a href="index.php" class="current">Игры </a>
             <a href="portfolio.php">Связь</a>
             <a href="blog.php">Банк</a>
             <a href="contact.php">Профиль</a>
@@ -53,6 +57,8 @@ background-size: 100%;-o-background-size: 100%;">
                         <br />
                         <br />
                         
+
+            <a href="contact.php"class="current">Профиль</a>             
             </div>
             <div class="login-box">
   <h2>Login</h2>

@@ -1,7 +1,6 @@
 body {
     position: relative;
-	background: #c7b39b url(img/QC7.gif); /* Цвет фона и путь к файлу */
-	
+	background: #c7b39b url(img/QC7.gif); 
 }
 
 .wrapper {
