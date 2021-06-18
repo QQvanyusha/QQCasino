@@ -58,7 +58,7 @@ background-size: 100%;-o-background-size: 100%;">
                         <br />
                         
 
-            <a href="contact.php"class="current">Профиль</a>             
+                
             </div>
             <div class="login-box">
   <h2>Login</h2>
