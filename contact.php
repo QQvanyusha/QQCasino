@@ -21,8 +21,13 @@ function clearText(field)
 background-size: 100%;-o-background-size: 100%;"> 
           <div class="flex">
            <div class="login "></div> 
-             <div class=""></div> 
- </div> 
+                        
+ 
+ <b>align-self:</b> <input type="radio" name="flex" id="one"><label for="one">no</label>
+<input type="radio" name="flex" id="two" checked><label for="two">.item3{ align-self: center; } и .item4{ align-self: flex-end; }</label>
+<br><br>
+<div class="flex">
+
 <div class="main-block">
     <div id="site_title">
         <b class="logo-a"href=""><img src="основапенипукпук.png"  /><span></span></a>
